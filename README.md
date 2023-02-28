@@ -10,7 +10,7 @@
 
 Предлагается выполнить одно из трёх заданий на выбор.
 
-⭐️ ## Задание 1. Нативное мобильное приложение
+## ⭐️ Задание 1. Нативное мобильное приложение
 
 <img width="1512" alt="Screenshot 2023-02-21 at 21 00 34" src="https://user-images.githubusercontent.com/102837730/220446253-d14715d3-e773-4dce-85ea-3c36fca96572.png">
 
@@ -26,7 +26,7 @@
 
 В целом привествуется сохранение общей архитектуры и стилистики кода основного проекта.
 
-⭐️ ## Задание 2. Раздел Connected Dapps в Настройках.
+## ⭐️ Задание 2. Раздел Connected Dapps в Настройках.
 
 <img width="460" alt="Screenshot 2023-02-28 at 20 24 58" src="https://user-images.githubusercontent.com/102837730/221957841-528c0ab1-5f5c-45aa-ae2e-713c1b25f23c.png">
 
@@ -36,7 +36,7 @@
 
 **Описание.** В режиме расширения для Chrome кошёлк поддерживает протокол TON Connect для подключения dapp-сайтов (например, getgems.io, tegro.finance и т.п.) Предлагается добавить в Настройках раздел управления подключёнными dapp-сайтами согласно [макетам](https://www.figma.com/file/4zlzG0ShKBrhxT6yUZlqtk/MyTonWallet-Design-Mobile-Public?node-id=3277%3A33896&t=vcntzMfbHADbRQrk-0).
 
-⭐️ ## Задание 3. Экран Swap
+## ⭐️ Задание 3. Экран Swap
 
 <img width="120" alt="Screenshot 2023-02-28 at 20 27 26" src="https://user-images.githubusercontent.com/102837730/221958398-d71d928c-b8ea-430d-a875-e315643902cc.png">
 
