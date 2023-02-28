@@ -34,7 +34,7 @@
 
 **Вознаграждение** при правильном выполнении задания, но при отсутствии последующего найма: до _$250_.
 
-**Описание.** В режиме расширения для Chrome кошёлк поддерживает протокол TON Connect для подключения dapp-сайтов (например, getgems.io, tegro.finance и т.п.) Предлагается добавить в Настройках раздел управления подключёнными dapp-сайтами согласно [макетам](https://www.figma.com/file/4zlzG0ShKBrhxT6yUZlqtk/MyTonWallet-Design-Mobile-Public?node-id=3277%3A33896&t=vcntzMfbHADbRQrk-0).
+**Описание.** В режиме расширения для Chrome поддерживается протокол TON Connect для подключения dapp-сайтов (например, getgems.io, tegro.finance и т.п.) Предлагается добавить в Настройках раздел управления подключёнными dapp-сайтами согласно [макетам](https://www.figma.com/file/4zlzG0ShKBrhxT6yUZlqtk/MyTonWallet-Design-Mobile-Public?node-id=3277%3A33896&t=vcntzMfbHADbRQrk-0).
 
 ## ⭐️ Задание 3. Экран Swap
 
