@@ -26,7 +26,7 @@
 
 В целом привествуется сохранение общей архитектуры и стилистики кода основного проекта.
 
-## ⭐️ Задание 2. Раздел Connected Dapps в Настройках.
+## ⭐️ Задание 2. Раздел Connected Dapps в Настройках
 
 <img width="460" alt="Screenshot 2023-02-28 at 20 24 58" src="https://user-images.githubusercontent.com/102837730/221957841-528c0ab1-5f5c-45aa-ae2e-713c1b25f23c.png">
 
